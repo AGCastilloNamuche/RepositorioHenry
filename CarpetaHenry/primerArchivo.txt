@@ -1,0 +1,11 @@
+===============Ejercicio 01=======================
+mkdir RepositorioHery
+===============Ejercicio 02================================
+cd RepositorioHenry
+mkdir CarpetaHenry
+===============Ejercicio 03 y 04================================
+cd CarpetaHenry
+touch primerArchivo.txt
+===============SUBIR ARCHIVOS AL REPOSITORIO================================
+cd CarpetaHenry
+touch primerArchivo.txt
