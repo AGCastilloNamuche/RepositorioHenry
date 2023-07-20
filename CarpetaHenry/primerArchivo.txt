@@ -10,3 +10,7 @@ touch primerArchivo.txt
 git init -- inicializamos nuestro repositorio en local
 git add -A -- subimos toda el proyecto 
 git commit -m "subir-repo-20.07.23" -- agregamos el commit
+/*==============================================================*/
+git remote add origin https://github.com/AGCastilloNamuche/RepositorioHenry.git 
+git branch -M main
+git push -u origin main -- cargamos los archivos a nuetro repo 
